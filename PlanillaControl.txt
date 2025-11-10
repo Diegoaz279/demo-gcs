@@ -1,0 +1,5 @@
+# PlanillaControl.txt
+# Proyecto: demo-gcs
+# Convención de tipo: feat, fix, docs, refactor, test, chore, ci
+Fecha(YYYY-MM-DD HH:mm) | Autor | Rama | Tipo | Alcance/Módulo | Descripción breve | Issue/PR
+2025-11-10 13:00 | Diego Castillo | develop | docs | gcs | crea planilla de control | -
